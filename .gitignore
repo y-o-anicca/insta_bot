@@ -1,0 +1,4 @@
+secrets.rb
+.bundle/
+Gemfile.lock
+.byebug_history
